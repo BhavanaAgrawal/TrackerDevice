@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527583318128",
+    "firebase_url": "https://trackerdevice-b2377.firebaseio.com",
+    "project_id": "trackerdevice-b2377",
+    "storage_bucket": "trackerdevice-b2377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527583318128:android:117b179e4a65d463",
+        "android_client_info": {
+          "package_name": "com.example.bhavana.trackerdevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527583318128-4ce8odoms088eduk603lg7389jbmoifg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhavana.trackerdevice",
+            "certificate_hash": "44e7042a0e05a1ed99122dcb016e60609b551987"
+          }
+        },
+        {
+          "client_id": "527583318128-2bg4mboe23stuuomu3rh9drcc2v1cgvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhYxe7jjhR5OG6ra4u3ng7ahtU4lAG4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527583318128-2bg4mboe23stuuomu3rh9drcc2v1cgvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
